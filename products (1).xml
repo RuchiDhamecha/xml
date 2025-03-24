@@ -1,91 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-<channel>
-<created_at>2025-03-24 05:00</created_at>
-<item>
-<g:id>
-<![CDATA[ 102 ]]>
-</g:id>
-<title>
-<![CDATA[ Cellfood ]]>
-</title>
-<description>
-<![CDATA[ &lt;div data-content-type=&quot;html&quot; data-appearance=&quot;default&quot; data-element=&quot;main&quot;&gt;Det inneh&amp;#229;ller bara de absolut b&amp;#228;sta naturliga r&amp;#229;varorna fr&amp;#229;n Antarktis rena vatten, n&amp;#228;ringsrika v&amp;#228;xt&amp;#228;mnen fr&amp;#229;n or&amp;#246;rda fossilplantor med mycket mineraler som behandlas ytterst skonsamt i en process som tar &amp;#246;ver nio m&amp;#229;nader.&amp;#160;&lt;br /&gt;&lt;br /&gt;Cellfood &amp;#228;r kompakt, be ]]>
-</description>
-<link>
-<![CDATA[ https://narokallan.se/cellfood ]]>
-</link>
-<g:image_link>https://narokallan.se/media/catalog/product/1/0/102.png</g:image_link>
-<g:condition>new</g:condition>
-<g:sale_price>
-<![CDATA[ 343.00 SEK ]]>
-</g:sale_price>
-<g:price>
-<![CDATA[ 429.00 SEK ]]>
-</g:price>
-<g:tax>
-<g:country>SE</g:country>
-<g:rate>0</g:rate>
-<g:tax_ship>y</g:tax_ship>
-</g:tax>
-<g:shipping>
-<g:country>SE</g:country>
-<g:rate>0</g:rate>
-<g:tax>y</g:tax>
-</g:shipping>
-<g:availability>
-<![CDATA[ Out of Stock ]]>
-</g:availability>
-<g:identifier_exists>FALSE</g:identifier_exists>
-<g:product_type>
-<![CDATA[ Övriga mineraler ]]>
-</g:product_type>
-<g:brand>
-<![CDATA[ Cellfood ]]>
-</g:brand>
-<g:gtin>679909000017</g:gtin>
-</item>
-<item>
-<g:id>
-<![CDATA[ 246 ]]>
-</g:id>
-<title>
-<![CDATA[ Cellfood Silica ]]>
-</title>
-<description>
-<![CDATA[ &lt;div data-content-type=&quot;html&quot; data-appearance=&quot;default&quot; data-element=&quot;main&quot;&gt;&lt;p class=&quot;p1&quot;&gt;PH-neutral kisel i jonisk form med Cellfood f&amp;#246;r superb upptagning.&lt;/p&gt;&lt;p class=&quot;p3&quot;&gt;&lt;/p&gt;&lt;/div&gt; ]]>
-</description>
-<link>
-<![CDATA[ https://narokallan.se/cellfood-silica ]]>
-</link>
-<g:image_link>https://narokallan.se/media/catalog/product/2/4/246.png</g:image_link>
-<g:condition>new</g:condition>
-<g:sale_price>
-<![CDATA[ 359.00 SEK ]]>
-</g:sale_price>
-<g:price>
-<![CDATA[ 449.00 SEK ]]>
-</g:price>
-<g:tax>
-<g:country>SE</g:country>
-<g:rate>0</g:rate>
-<g:tax_ship>y</g:tax_ship>
-</g:tax>
-<g:shipping>
-<g:country>SE</g:country>
-<g:rate>0</g:rate>
-<g:tax>y</g:tax>
-</g:shipping>
-<g:availability>
-<![CDATA[ Out of Stock ]]>
-</g:availability>
-<g:identifier_exists>FALSE</g:identifier_exists>
-<g:product_type>
-<![CDATA[ Övriga mineraler ]]>
-</g:product_type>
-<g:brand>
-<![CDATA[ Cellfood ]]>
-</g:brand>
-<g:gtin>7530053310045</g:gtin>
-</item>
-</channel>
+  <channel>
+    <title>Weard</title>
+    <link>https://weard.com/sv</link>
+    <item>
+      <g:id>Shopify_SE_8076925272329_43917531709705</g:id>
+      <g:title>Bambu Beanie - Mössa gjord i Bambu för utomhusträning | Weard</g:title>
+      <g:link>https://weard.com/sv/products/bamboo-beanie</g:link>
+      <g:brand>Weard</g:brand>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0652/8951/9369/files/Bamboo_Mossa.jpg?v=1738056962</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0652/8951/9369/files/Bamboo_Mossa.jpg?v=1738056962</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0652/8951/9369/files/Weard_Size_Shoot-248_2.jpg?v=1738056962</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0652/8951/9369/products/Bamboo_Mossa.jpg?v=1675857840</g:additional_image_link>
+      <g:description>På väg ut i längdspåret, på en löprunda i höstmörkret eller bara ut på en vandring i fjällen och behöver hålla dig vältempererad om hjässan? Då är våran Bamboo beanie perfekt för dig. Tillverkad av världens bästa bambu såklart!</g:description>
+      <g:price>199.0 SEK</g:price>
+      <g:sale_price>59.0 SEK</g:sale_price>
+      <g:quantity>0</g:quantity>
+      <g:availability>In Stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:mpn>U-76-OS</g:mpn>
+      <g:gtin>7332597628415</g:gtin>
+      <g:product_type>Beanie</g:product_type>
+      <g:unit_pricing_measure>0.07 kg</g:unit_pricing_measure>
+      <g:tax>
+        <g:country>SE</g:country>
+        <g:rate>0</g:rate>
+        <g:tax_ship>y</g:tax_ship>
+      </g:tax>
+      <g:shipping>
+        <g:country>SE</g:country>
+        <g:rate>0</g:rate>
+        <g:tax>y</g:tax>
+        <g:shipping_time>2-5 days</g:shipping_time>
+        <g:carrier>DHL</g:carrier>
+      </g:shipping>
+    </item>
+  </channel>
 </rss>
