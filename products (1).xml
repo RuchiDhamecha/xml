@@ -31,8 +31,6 @@
       </g:tax>
       <g:shipping>
         <g:country>SE</g:country>
-        <g:rate>0</g:rate>
-        <g:tax>y</g:tax>
         <g:shipping_time>2-5 days</g:shipping_time>
         <g:carrier>DHL</g:carrier>
       </g:shipping>
