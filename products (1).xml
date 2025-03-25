@@ -31,8 +31,7 @@
       </g:tax>
       <g:shipping>
         <g:country>SE</g:country>
-        <g:shipping_time>2-5 days</g:shipping_time>
-        <g:carrier>DHL</g:carrier>
+        <g:price>DHL</g:price>
       </g:shipping>
     </item>
   </channel>
